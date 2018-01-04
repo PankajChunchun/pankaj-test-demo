@@ -1,0 +1,7 @@
+{
+  "mp4_url": "http://www.sample-videos.com/video/mp4/480/big_buck_bunny_480p_5mb.mp4",
+  "fb_url": "https://video.xx.fbcdn.net/v/t43.1792-2/18610258_208596916319894_6519134930780291072_n.mp4?efg=eyJybHIiOjI0NjMsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=2463&vabr=1642&oh=1ebfb550a6f76bf00de62e574a93159f&oe=5A50AE36",
+  "vimeo_url": "https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/4848/9/249243818/903511494.mp4?token=1515060166-0x0b005fdcbac5883a5ef23787a5917b313f7c1af4",
+  "youtube_url": "http://www.youtube.com/api/manifest/dash/id/3aa39fa2cc27967f/source/youtube?as=fmp4_audio_clear,fmp4_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=A2716F75795F5D2AF0E88962FFCD10DB79384F29.84308FF04844498CE6FBCE4731507882B8307798&key=ik0",
+  "xyz_xyz": "Videos/Test.mp4"
+}
