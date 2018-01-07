@@ -19,6 +19,7 @@ public class JavaApplication1 {
         
         // This is first line of test commit
         String str = "hello world";
+        // Test
     }
     
 }
