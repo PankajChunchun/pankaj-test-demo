@@ -20,6 +20,7 @@ public class JavaApplication1 {
         // This is first line of test commit
         String str = "hello world";
         // Test
+        // Adding this line to expect conflict. : Commit done from branch dev_1.0
     }
     
 }
