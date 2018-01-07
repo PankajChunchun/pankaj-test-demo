@@ -21,6 +21,7 @@ public class JavaApplication1 {
         String str = "hello world";
         // Test
         // Adding this line from master branch.
+        // Adding this line to expect conflict. : Commit done from branch dev_1.0
     }
     
 }
